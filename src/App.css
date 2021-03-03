@@ -1,0 +1,8 @@
+.center {
+  text-align: center;
+}
+
+.fa {
+    filter: alpha(opacity=50);
+    opacity: 0.5;
+}
